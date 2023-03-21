@@ -1,0 +1,22 @@
+{
+  "name": "copilot",
+  "version": "1.0.0",
+  "description": "感受copilot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test copilot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yibudonkey/study.git"
+  },
+  "keywords": [
+    "copilot"
+  ],
+  "author": "yibudonkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yibudonkey/study/issues"
+  },
+  "homepage": "https://github.com/yibudonkey/study#readme"
+}
